@@ -1,0 +1,21 @@
+h1{
+	color: black;
+	font-style: initial;
+}
+
+h4{
+	color: darkblue;
+	border-block-color: black;
+	font-style: normal;
+	font-style: italic;
+
+}
+
+body{
+	background-color: lightpink;
+	border-block-style: double;
+	border-block-width: 15px;
+    border-block-color: black;
+    font-style: lightitalic;
+    font-family: "Times New Roman", Times, serif;
+}
